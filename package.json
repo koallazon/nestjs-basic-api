@@ -4,6 +4,7 @@
   "description": "nest.js 학습 프로젝트 -basic",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev ./src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
